@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ZPspring:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="com.zp.spring.war">
+      <element id="artifact" artifact-name="ZPspring:war exploded" />
+    </root>
+  </artifact>
+</component>
